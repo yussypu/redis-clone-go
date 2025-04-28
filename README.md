@@ -16,7 +16,7 @@ It features a simple in-memory key-value store, a clean CLI mode, and a TCP serv
 
 Here’s what the YahyaRedis CLI looks like:
 
-<img src="https://github.com/YOUR_USERNAME/redis-clone-go/blob/main/assets/cli-demo.png" width="600"/>
+![CLI](cli.png)
 
 - `SET <key> <value>` — store a value
 - `GET <key>` — retrieve a value
