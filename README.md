@@ -26,9 +26,9 @@ Here’s what the YahyaRedis CLI looks like:
 
 ## ⚡ Benchmark Results
 
-Tested on an **Apple M1** CPU:
+Tested on an **Apple M1** CPU:  
 
-<img src="https://github.com/yussypu/redis-clone-go/Screenshot 2025-04-28 at 21.52.04.png" width="600"/>
+<img src="https://github.com/yussypu/redis-clone-go/benchmark-go.png" width="600"/>
 
 | Operation | Time (ns/op)  |
 |:----------|:------------|
