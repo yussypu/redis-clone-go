@@ -7,7 +7,7 @@
 
 ## ✨ Overview
 
-**YahyaRedis** is a lightweight, blazing-fast Redis clone written in Go.
+Lightweight, blazing-fast Redis clone written in Go.
 It features a simple in-memory key-value store, a clean CLI mode, and a TCP server mode — built for speed and fun.
 
 ---
