@@ -14,7 +14,7 @@ It features a simple in-memory key-value store, a clean CLI mode, and a TCP serv
 
 ## 🖥️ CLI Demo
 
-Here’s what the YahyaRedis CLI looks like:
+Here’s what the CLI looks like:
 
 ![CLI](cli.png)
 
@@ -35,7 +35,7 @@ Tested on an **Apple M1** CPU:
 | `SET`     | 381.3 ns/op   |
 | `GET`     | 16.86 ns/op   |
 
-🚀 YahyaRedis achieves **GET operations in under 20 nanoseconds**!
+🚀 Achieves **GET operations in under 20 nanoseconds**!
 
 ---
 
