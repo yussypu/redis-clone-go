@@ -1,4 +1,4 @@
-# YahyaRedis 🚀 — A Blazing-Fast Redis Clone in Go
+# Redis Clone in Go
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Go Version](https://img.shields.io/badge/go-1.21+-brightgreen)
